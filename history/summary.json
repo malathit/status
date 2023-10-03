@@ -4,17 +4,19 @@
     "url": "https://malathi.dev",
     "icon": "https://icons.duckduckgo.com/ip3/malathi.dev.ico",
     "slug": "curious-concepts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 343,
-    "timeDay": 518,
-    "timeWeek": 366,
-    "timeMonth": 304,
-    "timeYear": 353,
-    "dailyMinutesDown": {}
+    "time": 342,
+    "timeDay": 320,
+    "timeWeek": 335,
+    "timeMonth": 298,
+    "timeYear": 352,
+    "dailyMinutesDown": {
+      "2023-10-03": 0
+    }
   }
 ]

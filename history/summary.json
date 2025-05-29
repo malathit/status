@@ -6,17 +6,15 @@
     "slug": "curious-concepts",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 340,
-    "timeDay": 338,
-    "timeWeek": 415,
-    "timeMonth": 419,
-    "timeYear": 367,
-    "dailyMinutesDown": {
-      "2025-05-28": 14
-    }
+    "timeDay": 310,
+    "timeWeek": 420,
+    "timeMonth": 414,
+    "timeYear": 366,
+    "dailyMinutesDown": {}
   }
 ]
